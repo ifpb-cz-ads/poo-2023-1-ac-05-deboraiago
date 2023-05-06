@@ -1,6 +1,6 @@
 Atividade Colaborativa
 
-Questão 1 - for, for each, do-while, while
+Questão 1 - Os quatro elementos básicos de repetição controlados pelo contador são: variável de controle, valor inicial da variável, condição de continuação e incremento/decremento da variável de controle.
 
 Questão 2 - O laço while executa a condição enquanto for verdadeira, o For Executa o loop enquanto a condição for verdadeira, mas é declarado quantas vezes ira se repedir, também você pode instanciar as variáveis contadoras dentro da estrutura do loop.
 
